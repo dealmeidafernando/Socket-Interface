@@ -1,6 +1,6 @@
 # Socket-Interface
 
-## Pre-requisites
+## Pré requisitos
 
 `mysql version 5+` Veja o download no site [Mysql site.](https://dev.mysql.com/downloads/repo/apt/)
 
